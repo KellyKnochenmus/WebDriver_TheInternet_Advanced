@@ -2,3 +2,4 @@
 This is a text file added by Kelly 4/17/17
 Changes made here in the local repository
 Adding comment from local for SSH
+Editing file for Git Diff Tool
