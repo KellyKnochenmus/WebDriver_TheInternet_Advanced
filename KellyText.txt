@@ -6,3 +6,4 @@ Editing file for Git Diff Tool
 Adding second edit after initial commit
 Editing to compare diff between Working and Commit Areas in Local
 Another edit
+Editing for the Annotated Tags Lesson
