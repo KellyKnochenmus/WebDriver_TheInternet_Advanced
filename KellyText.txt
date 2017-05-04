@@ -8,3 +8,4 @@ Editing to compare diff between Working and Commit Areas in Local
 Another edit
 Editing for the Annotated Tags Lesson
 Editing again for Annotated Tag that will be applied to a previous commit
+Editing for git compare lesson
